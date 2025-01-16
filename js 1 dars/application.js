@@ -1,0 +1,10 @@
+let name =prompt("What is your name?");
+console.log(`Hello ${name}!`);
+let surname =prompt("What is your surname?");
+console.log(`Hello ${name} ${surname}!`);
+let age =prompt("How old are you?");
+console.log(`Hello ${name} ${surname}! You are ${age} years old.`);
+let city =prompt("Where are you from?");
+console.log(`Hello ${name} ${surname}! You are ${age} years old. You are from ${city}.`);
+let favouritesubject =prompt("What is your favourite subject?");
+console.log(`Hello ${name} ${surname}! You are ${age} years old. You are from ${city}. Your favourite subject is ${favouritesubject}.`);
